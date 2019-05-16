@@ -1,6 +1,6 @@
 {
   "name": "subscribe-js-sdk",
-  "description": "Subscribe-HR Platform Javascript SDK",
+  "description": "Subscribe-HR Platform JS SDK",
   "homepage": "http://www.subscribe-hr.com.au",
   "keywords": [
     "util",
@@ -14,8 +14,7 @@
     "type": "git",
     "url": "git://github.com/alagafonov/subscribe-js-sdk.git"
   },
-  "main": "underscore.js",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "devDependencies": {
     "coveralls": "^2.11.2",
     "docco": "*",
