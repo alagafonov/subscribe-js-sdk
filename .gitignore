@@ -1,0 +1,4 @@
+.idea
+.Vagrant
+.DS_Store
+node_modules
